@@ -13,16 +13,28 @@ The dashboard is fully interactive, allowing users to explore sales data through
 - Microsoft Excel
 - Microsoft Power BI
 
+#📂 Dataset
 
-#📊 Dashboard Features
+The dataset used in this project contains car sales information including:
 
-#KPI Cards
-- Total Sales
-- Total Cars Sold
-- Average Selling Price
+- Sales Date
+- Vehicle Manufacturer
+- Vehicle Model
+- Body Style
+- Transmission Type
+- Dealer Region
+- Selling Price
+
+The dataset was prepared in Microsoft Excel and imported into Power BI for analysis.
+
+
+# 🎛 Dashboard Features
+• Interactive slicers
+• Dynamic filtering
+• Drill-through analysis
+• KPI cards
 
 # Sales Analysis
-- Monthly Sales Trend
 - Sales by Manufacturer
 - Sales by Vehicle Body Style
 - Sales by Dealer Region
@@ -30,26 +42,24 @@ The dashboard is fully interactive, allowing users to explore sales data through
 - Sales by Transmission
   
 
-# Interactive Features
-- Dynamic Filters
-- Interactive Slicers
-- Drill-down Visualizations
 
-
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 <p align="center">
   <img src="dashboard-overview.png" alt="Dashboard Overview" width="48%">
   <img src="dashboard-detail.png" alt="Dashboard Details" width="48%">
 </p>
 
+
+
 # 📈 Key Business Insights
 
-- Identified the top-performing vehicle manufacturers based on total sales.
-- Analyzed monthly sales trends to identify seasonal demand patterns.
-- Compared sales performance across different dealer regions.
-- Evaluated customer preferences based on vehicle body style, color, and transmission type.
-- Enabled interactive filtering for quick and effective business analysis.
+- Tracked Total Sales, Cars Sold, and Average Selling Price through interactive KPI cards.
+- Monitored Year-to-Date (YTD), Month-to-Date (MTD), and Year-over-Year (YOY) sales performance.
+- Identified the highest-performing vehicle manufacturers and body styles.
+- Compared sales across dealer regions to evaluate regional market performance.
+- Analyzed monthly sales trends to identify growth patterns and seasonal demand.
+  
 
 # 💡 Skills Demonstrated
 
@@ -62,17 +72,6 @@ The dashboard is fully interactive, allowing users to explore sales data through
 - Interactive Reporting
 - Microsoft Excel
 - Microsoft Power BI
-
-
-#📂 Repository Structure
-
-
-Car-Sales-Dashboard
-│
-├── Car Sales Dashboard.pbix
-├── Dashboard Overview.png
-├── Car Sales Dataset.xlsx
-└── README.md
 
 
 #🎯 Business Objective
