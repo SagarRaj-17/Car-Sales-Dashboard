@@ -36,13 +36,15 @@ The dashboard is fully interactive, allowing users to explore sales data through
 - Drill-down Visualizations
 
 
+#📷 Dashboard Preview
 
-<h2>📷 Dashboard Preview</h2>
+# Overview Dashboard
 
-<p align="center">
-  <img src="dashboard-overview.png" alt="Overview Dashboard" width="48%">
-  <img src="dashboard-details.png" alt="Details Dashboard" width="48%">
-</p>
+![Overview Dashboard](dashboard-overview.png)
+
+# Details Dashboard
+
+![Details Dashboard](dashboard-details.png)
 
 
 # 📈 Key Business Insights
